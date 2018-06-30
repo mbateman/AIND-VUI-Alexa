@@ -2,3 +2,32 @@ GetNewFactIntent a fact
 GetNewFactIntent tell me a fact
 GetNewFactIntent give me a fact
 GetNewFactIntent give me something
+GetNewFactIntent give me some information
+GetNewFactIntent tell me something
+GetNewFactIntent tell me something about AI
+GetNewFactIntent tell me what you know about
+GetNewFactIntent what happened in AI
+GetNewFactIntent tell me something interesting
+GetNewFactIntent give me a random fact
+GetNewFactIntent what information do you have about AI
+GetNewFactIntent tell me a AI fact
+GetNewFactIntent give me some AI information
+GetNewFactIntent a AI fact
+GetNewFactIntent give me a AI fact
+GetNewYearFactIntent what happened in {FACT_YEAR}
+GetNewYearFactIntent tell me something about {FACT_YEAR}
+GetNewYearFactIntent a AI fact from {FACT_YEAR}
+GetNewYearFactIntent give me a AI fact from {FACT_YEAR}
+GetNewYearFactIntent tell me something from the {FACT_YEAR}
+GetNewYearFactIntent tell me something about AI that happened in {FACT_YEAR}
+GetNewYearFactIntent give me some information about {FACT_YEAR}
+GetNewYearFactIntent give me a AI fact connected to {FACT_YEAR}
+GetNewYearFactIntent what information do you have from {FACT_YEAR}
+GetNewYearFactIntent inform me about {FACT_YEAR}
+GetNewYearFactIntent give me a fact from {FACT_YEAR}
+GetNewYearFactIntent {FACT_YEAR} fact
+GetNewYearFactIntent what do you have on {FACT_YEAR}
+GetNewYearFactIntent anything important happened in {FACT_YEAR}
+GetNewYearFactIntent do you know something about {FACT_YEAR}
+GetNewYearFactIntent {FACT_YEAR}
+GetNewYearFactIntent a fact for {FACT_YEAR}
